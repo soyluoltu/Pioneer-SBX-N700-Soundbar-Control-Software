@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pioneer SBX Remote
+# Pioneer SBX-N700 Remote
 
 **An open-source remote control for the Pioneer SBX-N700 and SBX-N500 network soundbars.**
 Volume dial, subwoofer, Dialog, Night mode, inputs and sound settings, plus a Windows 11 taskbar widget.
